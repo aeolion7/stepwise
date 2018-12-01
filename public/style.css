@@ -26,8 +26,11 @@ nav {
   margin-bottom: .8%;
   margin-top: .8%;
   text-align: center;
+  width: 25%;
 }
 
 #main-body {
   background-color:  white;
+  margin: 1% 10%;
+  overflow: scroll;
 }
