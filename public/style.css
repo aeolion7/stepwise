@@ -13,6 +13,7 @@ nav {
 }
 
 #container {
+  background-color: #faf9f9;
   display: grid;
   grid-template-rows: 10vh 90vh;
 }
@@ -23,14 +24,14 @@ nav {
   flex: 1;
   font-family: 'Great Vibes', cursive;
   font-size: 50px;
-  margin-bottom: .8%;
-  margin-top: .8%;
+  margin-bottom: 0.8%;
+  margin-top: 0.8%;
   text-align: center;
   text-shadow: 1px 1px white;
 }
 
 #main-body {
-  background-color:  white;
+  background-color: #faf9f9;
   margin: 1% 10%;
   overflow: scroll;
 }
