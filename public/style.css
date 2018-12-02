@@ -13,13 +13,50 @@ nav {
   flex: 4;
 }
 
+.guitar {
+  background-image: url('./img/guitar.jpeg');
+}
+
 .module {
   background-color: rgb(238, 237, 237);
-  border: 3px outset lightgrey;
+  border: 5px outset lightgrey;
   border-radius: 10px;
+  display: grid;
+  grid-template-rows: 50% 15% 35%;
   height: 40%;
   margin: 2.5% auto;
-  min-width: 25vw;
+  width: 26vw;
+}
+
+.module-description {
+  align-items: center;
+  display: flex;
+  font-family: 'Ubuntu', sans-serif;
+  padding: 0 1vw;
+  text-align: center;
+}
+
+.module-img {
+  background-size: cover;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.module-title {
+  background-color: #333;
+  color: white;
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-size: 1.8vw;
+  padding-top: .4vh;
+  text-align: center;
+}
+
+.piano {
+  background-image: url('./img/piano.png');
+}
+
+.theory {
+  background-image: url('./img/bach-handwriting.jpg');
 }
 
 #container {
@@ -33,7 +70,7 @@ nav {
   border-right: 1px solid black;
   flex: 1;
   font-family: 'Great Vibes', cursive;
-  font-size: 3.25em;
+  font-size: 3em;
   margin-bottom: 0.8%;
   margin-top: 0.8%;
   min-width: 200px;
@@ -46,7 +83,7 @@ nav {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  margin: 1vw 8vw;
+  margin: 1vw 5vw;
   overflow: scroll;
 }
 
@@ -54,7 +91,7 @@ nav {
   .module {
     height: 30vh;
     margin: 3% auto;
-    min-width: 37vw;
+    width: 37vw;
   }
 }
 
@@ -62,6 +99,6 @@ nav {
   .module {
     height: 30vh;
     margin: 5% auto;
-    min-width: 75vw;
+    width: 75vw;
   }
 }
