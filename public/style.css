@@ -28,7 +28,7 @@ nav {
   display: grid;
   grid-template-rows: 50% 15% 35%;
   height: 40%;
-  margin: 2.5% auto;
+  margin: 2% auto;
   width: 26vw;
 }
 
