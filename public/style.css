@@ -6,6 +6,7 @@ header {
   background-color: lightgrey;
   border-bottom: 1px solid black;
   display: flex;
+  width: 100vw;
 }
 
 nav {
@@ -32,10 +33,10 @@ nav {
   border-right: 1px solid black;
   flex: 1;
   font-family: 'Great Vibes', cursive;
-  font-size: 50px;
+  font-size: 3.25em;
   margin-bottom: 0.8%;
   margin-top: 0.8%;
-  min-width: 200px;
+  min-width: 150px;
   text-align: center;
   text-shadow: 1px 1px white;
 }
@@ -47,4 +48,21 @@ nav {
   justify-content: center;
   margin: 1vw 8vw;
   overflow: scroll;
+}
+
+@media (max-width: 1000px) {
+  .module {
+    height: 30%;
+    margin: 3% auto;
+    min-width: 35vw;
+  }
+}
+
+@media (max-width: 500px) {
+  .module {
+    height: 25%;
+    margin: 5% auto;
+    min-width: 75vw;
+
+  }
 }
