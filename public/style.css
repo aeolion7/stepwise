@@ -32,6 +32,12 @@ nav {
   width: 26vw;
 }
 
+.module:hover {
+  border: 5px groove rgb(79, 178, 218);
+  box-shadow: 4px 5px grey;
+  transition: all .7s;
+}
+
 .module-description {
   align-items: center;
   display: flex;
