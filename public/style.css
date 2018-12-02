@@ -13,12 +13,12 @@ nav {
 }
 
 .module {
-  background-color: rgb(224, 222, 222);
-  border: 5px groove black;
-  border-radius: 5px;
+  background-color: rgb(238, 237, 237);
+  border: 3px outset lightgrey;
+  border-radius: 10px;
   height: 40%;
   margin: 2% auto;
-  min-width: 30%;
+  min-width: 25vw;
 }
 
 #container {
