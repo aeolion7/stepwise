@@ -36,7 +36,7 @@ nav {
   font-size: 3.25em;
   margin-bottom: 0.8%;
   margin-top: 0.8%;
-  min-width: 150px;
+  min-width: 200px;
   text-align: center;
   text-shadow: 1px 1px white;
 }
@@ -50,7 +50,7 @@ nav {
   overflow: scroll;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .module {
     height: 30%;
     margin: 3% auto;
@@ -60,7 +60,7 @@ nav {
 
 @media (max-width: 500px) {
   .module {
-    height: 25%;
+    height: 22%;
     margin: 5% auto;
     min-width: 75vw;
 
