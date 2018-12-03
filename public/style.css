@@ -10,6 +10,7 @@ header {
 }
 
 nav {
+  display: flex; /* for nav links */
   flex: 4;
 }
 
@@ -58,6 +59,7 @@ nav {
   font-size: 1.8vw;
   padding-top: .4vh;
   text-align: center;
+  width: 100%;
 }
 
 .piano {
@@ -106,6 +108,10 @@ nav {
     margin: 3% auto;
     width: 37vw;
   }
+
+  .module-title {
+    font-size: 2.5vw;
+  }
 }
 
 @media (max-width: 700px) {
@@ -113,5 +119,9 @@ nav {
     height: 30vh;
     margin: 5% auto;
     width: 75vw;
+  }
+
+  .module-title {
+    font-size: 4vw;
   }
 }
