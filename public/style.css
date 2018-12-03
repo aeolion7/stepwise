@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  min-width: 300px;
 }
 
 header {
@@ -55,10 +56,12 @@ nav {
 .module-title {
   background-color: #333;
   color: white;
+  display: flex;
+  align-items: center;
   font-family: 'IM Fell Great Primer SC', serif;
   font-size: 1.8vw;
   padding-top: .4vh;
-  text-align: center;
+  justify-content: center;
   width: 100%;
 }
 
@@ -81,15 +84,17 @@ nav {
 }
 
 #logo {
+  align-items: center;
   background-color: inherit;
   border-right: 1px solid black;
+  display: flex;
   flex: 1;
   font-family: 'Great Vibes', cursive;
   font-size: 3em;
+  justify-content: center;
   margin-bottom: 0.8%;
   margin-top: 0.8%;
-  min-width: 200px;
-  text-align: center;
+  min-width: 170px;
   text-shadow: 1px 1px white;
 }
 
@@ -110,7 +115,7 @@ nav {
   }
 
   .module-title {
-    font-size: 2.5vw;
+    font-size: 2.7vw;
   }
 }
 
@@ -119,6 +124,10 @@ nav {
     height: 30vh;
     margin: 5% auto;
     width: 75vw;
+  }
+
+  .module-description {
+    font-size: .8em;
   }
 
   .module-title {
