@@ -36,7 +36,7 @@ nav {
 
 .module:hover {
   border: 5px inset rgb(59, 148, 184);
-  transition: all .2s;
+  transition: all 1s;
 }
 
 .module-description {
@@ -103,7 +103,7 @@ nav {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  margin: 1vw 5vw;
+  margin: 3vh 5vw;
   overflow: scroll;
 }
 
@@ -112,6 +112,10 @@ nav {
     height: 30vh;
     margin: 3% auto;
     width: 37vw;
+  }
+
+  .module-description {
+    font-size: .9em;
   }
 
   .module-title {
@@ -131,6 +135,6 @@ nav {
   }
 
   .module-title {
-    font-size: 4vw;
+    font-size: 4.5vw;
   }
 }
