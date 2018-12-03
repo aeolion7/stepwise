@@ -33,9 +33,8 @@ nav {
 }
 
 .module:hover {
-  border: 5px groove rgb(79, 178, 218);
-  box-shadow: 4px 5px grey;
-  transition: all .7s;
+  border: 5px inset rgb(59, 148, 184);
+  transition: all .2s;
 }
 
 .module-description {
