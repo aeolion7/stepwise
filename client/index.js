@@ -1,12 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Header from './components/Header.jsx';
 
 ReactDOM.render(
   <div id="container">
-    <header>
-      <div id="logo">Stepwise</div>
-      <nav />
-    </header>
+    <Header />
     <div id="main-body">
       <div className="module">
         <div className="module-img piano" />
