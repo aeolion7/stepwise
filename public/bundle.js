@@ -108,165 +108,165 @@ react_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render(react__WEBPACK_IMPORTED_
 }, "Stepwise"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
   id: "main-body"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img piano"
+  className: "module-img piano"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Mastering Pentatonic Scales"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Pentatonic scales are a fundamental part of making music the world over. In this lesson, learn the secrets of working the sounds of pentatonic scales into your music.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img guitar"
+  className: "module-img guitar"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Playing a Guitar Solo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Confused on what to play when you're jamming with your friends and it's your turn to take the lead? Wonder no more.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img theory"
+  className: "module-img theory"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Composing a Violin Concerto"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Learn the compositional secrets of writing a beautiful contrapuntal tour-de-force that is the Baroque-style concerto.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img vocal"
+  className: "module-img vocal"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Belting Out the High Notes"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "It's easier than you think to make the top end of your vocal range powerful and usable. Here are all the techniques the professionals use that you need to know.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img flute"
+  className: "module-img flute"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Embouchure Improvement"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Struggling to get a sound out of your flute? Not once you work through this module! Let us help take your embouchure from silent whistling to smooth melody!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img piano"
+  className: "module-img piano"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Mastering Diatonic Scales"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Diatonic scales are a fundamental part of Western music. In this lesson, learn the secrets of working the sounds of major and minor scales into your music.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img guitar"
+  className: "module-img guitar"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Playing a Guitar Solo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Confused on what to play when you're jamming with your friends and it's your turn to take the lead? Wonder no more.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img theory"
+  className: "module-img theory"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Composing a Violin Concerto"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Learn the compositional secrets of writing a beautiful contrapuntal tour-de-force that is the Baroque-style concerto.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img vocal"
+  className: "module-img vocal"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Belting Out the High Notes"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "It's easier than you think to make the top end of your vocal range powerful and usable. Here are all the techniques the professionals use that you need to know.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img flute"
+  className: "module-img flute"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Embouchure Improvement"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Struggling to get a sound out of your flute? Not once you work through this module! Let us help take your embouchure from silent whistling to smooth melody!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img piano"
+  className: "module-img piano"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Mastering Pentatonic Scales"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Pentatonic scales are a fundamental part of making music the world over. In this lesson, learn the secrets of working the sounds of pentatonic scales into your music.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img guitar"
+  className: "module-img guitar"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Playing a Guitar Solo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Confused on what to play when you're jamming with your friends and it's your turn to take the lead? Wonder no more.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img theory"
+  className: "module-img theory"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Composing a Violin Concerto"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Learn the compositional secrets of writing a beautiful contrapuntal tour-de-force that is the Baroque-style concerto.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img vocal"
+  className: "module-img vocal"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Belting Out the High Notes"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "It's easier than you think to make the top end of your vocal range powerful and usable. Here are all the techniques the professionals use that you need to know.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img flute"
+  className: "module-img flute"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Embouchure Improvement"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Struggling to get a sound out of your flute? Not once you work through this module! Let us help take your embouchure from silent whistling to smooth melody!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img piano"
+  className: "module-img piano"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Mastering Pentatonic Scales"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Pentatonic scales are a fundamental part of making music the world over. In this lesson, learn the secrets of working the sounds of pentatonic scales into your music.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img guitar"
+  className: "module-img guitar"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Playing a Guitar Solo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Confused on what to play when you're jamming with your friends and it's your turn to take the lead? Wonder no more.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img theory"
+  className: "module-img theory"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Composing a Violin Concerto"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Learn the compositional secrets of writing a beautiful contrapuntal tour-de-force that is the Baroque-style concerto.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img vocal"
+  className: "module-img vocal"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Belting Out the High Notes"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "It's easier than you think to make the top end of your vocal range powerful and usable. Here are all the techniques the professionals use that you need to know.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module"
+  className: "module"
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-img flute"
+  className: "module-img flute"
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-title"
+  className: "module-title"
 }, "Embouchure Improvement"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-  class: "module-description"
+  className: "module-description"
 }, "Struggling to get a sound out of your flute? Not once you work through this module! Let us help take your embouchure from silent whistling to smooth melody!")))), document.getElementById('root'));
 
 /***/ }),
